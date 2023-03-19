@@ -1,0 +1,60 @@
+.colorWhite{
+    color: #fff;
+}
+.colorGray{
+    color: gray;
+}
+.min{
+    font-size: 10px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 120px;
+    height: auto;
+}
+h1{
+    color: #fff !important; 
+}
+.wave{
+    width: 100vw;
+    height: 800px;
+    position: absolute;
+    z-index: -9;
+    height: 650px; 
+    overflow: hidden;
+}
+.clientes{
+    
+    margin-top: 50px !important;
+}
+.imgContainer{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.marginTop{
+    margin-top: 40px;
+    
+}
+.marginBottom{
+    margin-bottom: 60px;
+}
+.list{
+    margin-top: 30px;
+    list-style: none;
+    
+}
+.list a{
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
